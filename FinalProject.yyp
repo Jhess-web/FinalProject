@@ -35,6 +35,9 @@
   "name":"FinalProject",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Spr_invisible","path":"sprites/Spr_invisible/Spr_invisible.yy",},},
+    {"id":{"name":"Spr_jumper","path":"sprites/Spr_jumper/Spr_jumper.yy",},},
+    {"id":{"name":"Spr_Speeder","path":"sprites/Spr_Speeder/Spr_Speeder.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
