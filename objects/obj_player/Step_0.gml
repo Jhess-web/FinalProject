@@ -72,8 +72,9 @@ else
 		/// @DnDHash : 02B7AAC0
 		/// @DnDParent : 79823FC9
 		/// @DnDArgument : "expr" "2.5"
+		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "move_y"
-		move_y = 2.5;
+		move_y += 2.5;
 	}
 }
 
@@ -90,8 +91,4 @@ move_and_collide(move_x, move_y, collision_tilemap,4,0,0,walk_speed,jump_speed);
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 493FEF62
-var l493FEF62_0 = instance_place(0, 0, [noone]);
-if ((l493FEF62_0 > 0))
-{
-
-}
+/// @DnDDisabled : 1
