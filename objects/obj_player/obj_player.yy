@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Bert",
+    "path":"sprites/Spr_Bert/Spr_Bert.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
