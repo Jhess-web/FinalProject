@@ -1,7 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 1B66BF22
-instance_destroy();
+/// @DnDApplyTo : {Obj_coin}
+with(Obj_coin) instance_destroy();
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1

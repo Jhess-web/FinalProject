@@ -8,7 +8,8 @@ jump_speed = jump_speed*1.5;
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 48123AB3
-instance_destroy();
+/// @DnDApplyTo : {Obj_jumper}
+with(Obj_jumper) instance_destroy();
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1

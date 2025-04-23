@@ -8,7 +8,8 @@ walk_speed = walk_speed*3;
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 394C29B5
-instance_destroy();
+/// @DnDApplyTo : {Obj_Speeder}
+with(Obj_Speeder) instance_destroy();
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
