@@ -34,6 +34,8 @@
   },
   "name":"FinalProject",
   "resources":[
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_invisible","path":"sprites/Spr_invisible/Spr_invisible.yy",},},
     {"id":{"name":"Spr_jumper","path":"sprites/Spr_jumper/Spr_jumper.yy",},},
