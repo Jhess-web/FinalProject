@@ -9,8 +9,9 @@ if(move_y < 0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 03373988
 	/// @DnDParent : 77BF97DE
+	/// @DnDArgument : "imageind_relative" "1"
 	/// @DnDArgument : "spriteind" "Spr_Bert_jump"
 	/// @DnDSaveInfo : "spriteind" "Spr_Bert_jump"
 	sprite_index = Spr_Bert_jump;
-	image_index = 0;
+	image_index += 0;
 }
