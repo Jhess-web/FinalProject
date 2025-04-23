@@ -53,6 +53,8 @@
     {"id":{"name":"Spr_jumper","path":"sprites/Spr_jumper/Spr_jumper.yy",},},
     {"id":{"name":"Spr_Play","path":"sprites/Spr_Play/Spr_Play.yy",},},
     {"id":{"name":"Spr_Speeder","path":"sprites/Spr_Speeder/Spr_Speeder.yy",},},
+    {"id":{"name":"Spr_Tileset1","path":"sprites/Spr_Tileset1/Spr_Tileset1.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
